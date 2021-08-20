@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=handhak0&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=handhak0&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 🛠 Tools <img src="https://cdn.icon-icons.com/icons2/112/PNG/64/python_18894.png" alt="img" style="zoom:85%;" />  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/64/notion_logo_icon_145025.png" alt="img" style="zoom:0.65;" />  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/64/slack_icon_130829.png" alt="img" style="zoom:80%;" />
+#### 🛠 Tools <img src="https://cdn.icon-icons.com/icons2/112/PNG/64/python_18894.png" alt="img" style="zoom:60%;" />  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/64/notion_logo_icon_145025.png" alt="img" style="zoom:0.45;" />  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/64/slack_icon_130829.png" alt="img" style="zoom:55%;" />
 
 #### 📊Project 
 
